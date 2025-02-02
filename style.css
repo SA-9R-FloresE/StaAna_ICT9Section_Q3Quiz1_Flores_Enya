@@ -1,0 +1,22 @@
+ ol{
+        list-style-position: inside ;
+      }
+      
+      .col-md-8{
+        background-image: linear-gradient(gray, white);
+        height: 600px;
+        width: 960px;
+        border: 10px solid darkgreen;
+      }
+      #ExpResult, #ModResult, #GreaterResult, #EqualResult, #AndResult, #NotResult{
+        font-style: bold;
+        color: green;
+      }
+      h1 {
+        font-family: Rockwell;
+        color:ghostwhite;
+      }
+
+      body {
+        background-color:black;
+      }
